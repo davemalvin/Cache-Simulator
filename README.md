@@ -15,14 +15,14 @@ Task 1 MIPS processor:<br />
 Cache tests (with cache size 128B)<br />
      cache_LW_test.txt     : <not checking stores>  <LW hits:  incorrect>  <tag_bits: correct>  [1.00/7]<br />  
      cache_SW_test.txt     : segmentation or assertion --> [0.00/7]<br />
-     cache_complex_test.txt: <SW hits:  incorrect>  <LW hits:  incorrect>  <tag_bits: correct>  [1.00/7] \  
+     cache_complex_test.txt: <SW hits:  incorrect>  <LW hits:  incorrect>  <tag_bits: correct>  [1.00/7]<br /> 
  
-Cache tests (with cache size 256B) \ 
-     cache_LW_test.txt     : <not checking stores>  <LW hits:    correct>  <tag_bits: correct>  [7.00/7] \  
-     cache_SW_test.txt     : <SW hits:    correct>  <LW hits:    correct>  <tag_bits: correct>  [7.00/7] \  
-     cache_complex_test.txt: <SW hits:  incorrect>  <LW hits:  incorrect>  <tag_bits: correct>  [1.00/7] \  
+Cache tests (with cache size 256B)<br />
+     cache_LW_test.txt     : <not checking stores>  <LW hits:    correct>  <tag_bits: correct>  [7.00/7]<br />  
+     cache_SW_test.txt     : <SW hits:    correct>  <LW hits:    correct>  <tag_bits: correct>  [7.00/7]<br />  
+     cache_complex_test.txt: <SW hits:  incorrect>  <LW hits:  incorrect>  <tag_bits: correct>  [1.00/7]<br /> 
  
-Dynamic memory management \ 
-     Proper use of malloc  : [8.00/8] \  
+Dynamic memory management<br />
+     Proper use of malloc  : [8.00/8]<br />  
  
 Final cw2 mark: [75.0/100] 
