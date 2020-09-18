@@ -1,7 +1,7 @@
 # Cache-Simulator
 **Course Name:** Informatics 2C - Introduction to Computer Systems \
 **Programming Language:** C \
-**Objective:** To implement a direct-mapped cache to the memory hierarchy and the datapath and control signals of a MIPS processor.
+**Objective:** To implement a direct-mapped cache to the memory hierarchy and the datapath and control signals of a MIPS processor. \
 **Results:** \ 
 Task 1 MIPS processor: \ 
      J_test.txt            : 5 out of 5 checks --> [7.00/7] \ 
